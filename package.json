@@ -1,0 +1,25 @@
+{
+  "name": "leaflet_googlemap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veblin/leaflet_googlemap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veblin/leaflet_googlemap/issues"
+  },
+  "homepage": "https://github.com/Veblin/leaflet_googlemap#readme",
+  "dependencies": {
+    "@google/maps": "^0.4.6",
+    "leaflet": "^1.3.1",
+    "leaflet.gridlayer.googlemutant": "^0.6.4"
+  }
+}

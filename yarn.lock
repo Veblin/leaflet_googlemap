@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@google/maps@^0.4.6":
-  version "0.4.6"
-  resolved "https://registry.yarnpkg.com/@google/maps/-/maps-0.4.6.tgz#0a1957fd71a4c9f30706b2fd2aac13cafd6a9072"
+google-maps@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/google-maps/-/google-maps-3.3.0.tgz#4432b4715406bc15268ad35b1dd1b04d974956a6"
 
 leaflet.gridlayer.googlemutant@^0.6.4:
   version "0.6.4"
